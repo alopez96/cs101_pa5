@@ -1,0 +1,8 @@
+Arturo Lopez
+cs101 pa5
+List.c creates a List ADT that uses nodes. List.h is the header file for List.c.
+Graph.c- creates a Graph ADT and is a client of List.c. Graph.h header file for Graph.c
+FindComponents.c- reads input file, creates a new Graph G and its transpose T. After processing DFS on both G and T with modified List S prints the strongly connected components of G to the output file
+in topologically sorted order
+
+
